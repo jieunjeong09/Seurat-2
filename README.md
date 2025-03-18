@@ -1,5 +1,5 @@
 # Seurat-2
-spacial transcriptomics
+Spacial transcriptomics
 # Vignette for single cell preliminary analysis
 
 ## The main source
@@ -10,7 +10,8 @@ with some changes in graphics etv
 
 ## What we do
 
-`spacial_jieun_sct.Rmd` is the markdown file with about 25 code chunks.
+`SpacialTransc_jieun.Rmd` is the markdown file with initial processing of data from 10 X
+Visium technology, obtained by testing and modifying (sometimes necessary) the main source.
 For practical use, one
 can add file saving commands for computed files and figures, and skip chunks with unwanted
 figures etc.
