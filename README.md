@@ -16,3 +16,5 @@ For practical use, one
 can add file saving commands for computed files and figures, and skip chunks with unwanted
 figures etc.
 
+This R markdown was tested and knitted, but sometimes its pdf does not display, so it may be necessary to download and view locally.
+
