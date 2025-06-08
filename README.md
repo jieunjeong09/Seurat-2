@@ -1,6 +1,6 @@
 # Seurat-2
-Spacial transcriptomics
-# Vignette for single cell preliminary analysis
+
+# Vignette for spatial transcriptomic preliminary analysis
 
 ## The main source
 
