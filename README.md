@@ -18,3 +18,8 @@ figures etc.
 
 This R markdown was tested and knitted, but sometimes its pdf does not display, so it may be necessary to download and view locally.
 
+## Visual exploration
+
+`shiny_two_layer.zip` packages an Rshiny application to explore gene expression distribution in voxels that have color-coded clusters.
+It allows to assess distribution of markers of cell types like Vim, anatomic features like Plp1 etc., and it can be developed to a multi-functional dashboard.
+After downloading and de-compression, it can be used as instructeed in `shiny_two_layer/README.txt`
